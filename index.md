@@ -1,5 +1,7 @@
----
-title: Accueil
+---js
+{
+  title: (function () { alert('oops'); return 'Accueil' })()
+}
 ---
 # L'Échappée Belle
 
