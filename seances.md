@@ -1,4 +1,0 @@
----
-title: Séances
----
-ah
