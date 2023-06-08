@@ -1,6 +1,6 @@
 ---
 title: Accueil
 ---
-## Bonjour
+## Bonjour !
 
 Bonjour c'est le test
