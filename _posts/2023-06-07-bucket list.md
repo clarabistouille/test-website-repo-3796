@@ -1,0 +1,14 @@
+---
+title: Bucket List
+---
+- ~~se teindre les cheveux~~
+- donner mes cheveux
+- aller voir les JO de patinage artistique
+- **avoir un maximum de plante** (en construction)
+- faire un picnic sur un toit et regarder les étoiles
+- gratter le plus de pays possible sur ma carte
+- apprendre à danser
+- réussir à coudre une jupe
+- DÉCAPITER UN CHOU
+- enregistrer une chanson
+- retester tous les aliments que j'aime pas pour voir si j'aime vraiment pas ou si c'est juste mon imagination
