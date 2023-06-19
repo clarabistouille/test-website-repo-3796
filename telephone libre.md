@@ -22,6 +22,10 @@ Ce qui est top, c’est que sur Firefox on peut installer un bloqueur de pub. Il
                     <a class="result-link" href="/notices/firefox.html">Firefox</a>
                 </h3>
                 <div class="card-text">Le navigateur web épris de liberté distribué par la Fondation Mozilla.</div>
+                 <a class="btn btn-outline-warning mb-2" href="/notices/firefox.html">
+                    Voir la notice
+                    <i class="fas fa-chevron-right ml-1"></i>
+                </a>
             </div>
         </div>
     </div>
